@@ -1,0 +1,12 @@
+[Nemo Action]
+# An action to create a link .desktop file to the directory on the Desktop
+# Has a link emblem
+Name=Add _Link To Desktop
+Name[ko]=바탕화면에 바로가기 추가
+Comment=Create a link to #F on the desktop
+Comment[ko]=바탕화면에 #F 바로가기 추가
+Exec=<scripts/add_link_to_desktop.sh %F>
+Icon-Name=insert-link-symbolic
+Selection=s
+Extensions=dir;
+EscapeSpaces=true

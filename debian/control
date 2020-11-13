@@ -1,0 +1,27 @@
+Source: hamonikr-nemo-actions
+Section: admin
+Priority: optional
+Maintainer: Kevin Kim <root@hamonikr.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.4
+
+Package: hamonikr-nemo-actions
+Architecture: all
+Depends: nemo, 
+         nemo-data, 
+         unalz, 
+         nemo-python,
+         gprename,
+         wmctrl,
+         xdotool,
+         mediainfo-gui,
+         spacefm
+Enhances: 
+Conflicts: 
+Replaces: imagemagick-6-common, 
+          nemo-data,
+          alzip
+Description: Nemo for HamoniKR OS Settings
+ Usefule Nemo Actions for HamoniKR OS
+ .
+ 하모니카의 콘텍스트 메뉴를 적용하는 패키지입니다.

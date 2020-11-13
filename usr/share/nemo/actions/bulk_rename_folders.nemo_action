@@ -1,0 +1,17 @@
+[Nemo Action]
+# Use GPrename (apt install gprename) to bulk rename contents of target directory
+Name=_Bulk Rename
+Name[ko]=전체 폴더 이름 바꾸기
+Comment=Open GPrename in %F
+Comment=선택된 폴더 %F 이름 일괄 변환
+Exec=gprename %F
+Icon-Name=document-edit-symbolic
+#Stock-Id=
+Selection=s
+Extensions=dir;
+#Mimetypes=
+#Separator= 
+#Quote=
+Dependencies=gprename;
+#Conditions=
+EscapeSpaces=true
