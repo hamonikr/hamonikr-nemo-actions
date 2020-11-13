@@ -1,6 +1,6 @@
 [Nemo Action]
 # Requires mediainfo-gui - apt install mediainfo-gui
-Name=Media _Properties
+Name=Media Properties
 Name[ko]=미디어 상세 정보 보기
 Comment=Open %F with mediainfo-gui
 Comment=선택한 %F 파일 상세 정보를 봅니다.

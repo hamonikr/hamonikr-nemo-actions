@@ -1,9 +1,9 @@
 [Nemo Action]
 # Any action
-Name=_Print Tree
-Name[ko]=현재 경로의 트리 구조 보기(_P)
+Name=Print _Tree
+Name[ko]=현재 폴더의 트리 구조 보기(_T)
 Comment=Print tree output for #F to a html file and display in default browser
-Comment[ko]=기본 브라우저에서 현재 선택한 경로의 트리 구조를 보여줍니다.
+Comment[ko]=기본 브라우저에서 현재 선택한 폴더의 트리 구조를 보여줍니다.
 Exec=<scripts/print_tree.sh %F>
 Icon-Name=view-list-symbolic
 Selection=any
