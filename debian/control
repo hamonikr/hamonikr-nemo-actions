@@ -19,7 +19,8 @@ Enhances:
 Conflicts: 
 Replaces: imagemagick-6-common, 
           nemo-data,
-          alzip
+          alzip,
+          hamonikr-system-settings
 Description: Nemo for HamoniKR OS Settings
  Usefule Nemo Actions for HamoniKR OS
  .
