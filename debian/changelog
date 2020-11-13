@@ -1,3 +1,10 @@
+hamonikr-nemo-actions (1.0.1) jin; urgency=medium
+
+  * Update usr/share/nemo/actions/previous_workspace.nemo_action
+   - Fixed menu name
+  
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 13 Nov 2020 17:38:34 +0900
+
 hamonikr-nemo-actions (1.0.0) jin; urgency=medium
 
   * Initial release
