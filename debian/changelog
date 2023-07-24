@@ -1,3 +1,10 @@
+hamonikr-nemo-actions (1.0.5) stable; urgency=medium
+
+  * Update usr/share/nemo/actions dir:
+   - Add Install all selected Fonts
+  
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 20 Jul 2023 12:31:10 +0900
+
 hamonikr-nemo-actions (1.0.4) jin; urgency=medium
 
   * Update usr/share/nemo/actions dir:
