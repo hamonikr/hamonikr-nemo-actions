@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.0.6) stable; urgency=medium
+
+  * Add pdf merge menu
+  
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 28 May 2024 21:26:24 +0900
+
 hamonikr-nemo-actions (1.0.5) stable; urgency=medium
 
   * Update usr/share/nemo/actions dir:
