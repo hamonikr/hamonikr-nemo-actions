@@ -5,6 +5,7 @@ nemo file browser additional actions for HamoniKR
 하모니카 사용에 필요한 파일 브라우저의 콘텍스트 메뉴
 - PDF 문서를 이미지 변환
 - 다수의 이지미를 PDF로 변환
+- 다수의 PDF 파일을 합치기
 - 알집 압축 해제
 - 쉘 스크립트 실행
 - 파이썬 프로그램 실행
