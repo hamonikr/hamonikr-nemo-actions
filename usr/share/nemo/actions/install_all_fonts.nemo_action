@@ -4,7 +4,7 @@ Name=Install Fonts
 Name[ko]=폰트 설치하기
 Comment=Install selected fonts
 Comment[ko]=선택한 모든 폰트 설치
-Exec=gnome-terminal --working-directory=%P -- /bin/bash -c '/usr/bin/cp %F ~/.local/share/fonts'
+Exec=gnome-terminal --working-directory=%P -- /bin/bash -c 'cp %F ~/.local/share/fonts && fc-cache -f -v && notify-send "Fonts Installed" "Selected fonts have been installed and cache refreshed."'
 Icon-Name=font-x-generic
 Selection=notnone
 Extensions=ttf;ttc;otf;woff;woff2;pfa;pfb;pcf;snf;bdf;psf;psfu;pcf.gz;snf.gz

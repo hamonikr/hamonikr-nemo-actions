@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.0.7) stable; urgency=medium
+
+  * Update font install action
+  
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 18 Jun 2024 12:39:30 +0900
+
 hamonikr-nemo-actions (1.0.6) stable; urgency=medium
 
   * Add pdf merge menu
