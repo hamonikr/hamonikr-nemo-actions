@@ -6,9 +6,9 @@ Comment=Install selected fonts
 Comment[ko]=선택한 모든 폰트 설치
 Exec=gnome-terminal --working-directory=%P -- /bin/bash -c '/usr/bin/cp %F ~/.local/share/fonts'
 Icon-Name=font-x-generic
-Selection=any
-Extensions=ttf;ttc;otf;
-Mimetypes=font/otf;font/ttf;application/vnd.ms-opentype;font/sfnt;font/woff;font/woff2;
+Selection=notnone
+Extensions=ttf;ttc;otf;woff;woff2;pfa;pfb;pcf;snf;bdf;psf;psfu;pcf.gz;snf.gz
+Mimetypes=font/otf;font/ttf;application/vnd.ms-opentype;font/sfnt;font/woff;font/woff2;application/x-font-type1;application/x-font-bdf;application/x-font-pcf;application/x-font-snf;application/x-font-linux-psf
 #EscapeSpaces=true
 Terminal=false
 Quote=double
