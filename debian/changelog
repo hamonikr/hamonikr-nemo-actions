@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.0.8) stable; urgency=medium
+
+  * Release for ubuntu 24.04
+  
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 08 Jul 2024 11:44:29 +0900
+
 hamonikr-nemo-actions (1.0.7) stable; urgency=medium
 
   * Update font install action

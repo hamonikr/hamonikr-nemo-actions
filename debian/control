@@ -21,7 +21,7 @@ Replaces: imagemagick-6-common,
           nemo-data,
           alzip,
           hamonikr-system-settings
-Description: Nemo for HamoniKR OS Settings
+Description: Nemo Actions for HamoniKR OS Settings
  Usefule Nemo Actions for HamoniKR OS
  .
  하모니카의 콘텍스트 메뉴를 적용하는 패키지입니다.
