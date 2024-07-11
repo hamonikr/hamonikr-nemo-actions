@@ -1,3 +1,10 @@
+hamonikr-nemo-actions (1.0.8+h1) stable; urgency=medium
+
+  * Release for bookworm arm64
+   - No change
+  
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 12 Jul 2024 02:26:56 +0900
+
 hamonikr-nemo-actions (1.0.8) stable; urgency=medium
 
   * Release for ubuntu 24.04
