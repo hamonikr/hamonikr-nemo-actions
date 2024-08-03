@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.1.1) paektu; urgency=medium
+
+  * Change the name to change the order of the context menu
+
+ -- HamoniKR <pkg@hamonikr.org>  Sun, 04 Aug 2024 00:57:49 +0900
+
 hamonikr-nemo-actions (1.1.0) paektu; urgency=medium
 
   * Release for ubuntu 24.04
