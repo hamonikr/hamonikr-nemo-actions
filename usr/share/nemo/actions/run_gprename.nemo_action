@@ -1,12 +1,12 @@
 [Nemo Action]
 # Requires gprename to be installed (apt install gprename).
-Name=_Rename Here with Contents
-Name[ko]=현재 폴더 파일명 일괄 변경(_R)
+Name=Name batch change
+Name[ko]=이름 일괄 변경
 Comment=Rename %F with gprename
-Comment=선택한 폴더 %F 의 파일명을 일괄 변경합니다.
+Comment=이름을 일괄 변경합니다.
 Exec=gprename %F
 Icon-Name=document-send-symbolic
-Selection=any
-Extensions=dir;
+Selection=notnone
+Extensions=any;
 EscapeSpaces=true
 Dependencies=gprename;
