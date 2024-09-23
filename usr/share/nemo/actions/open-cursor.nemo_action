@@ -1,0 +1,10 @@
+[Nemo Action]
+Name=Open Cursor
+Name[ko]=현재 폴더 Cursor 열기
+Comment=Open %F with Cursor
+Comment=선택한 폴더 %F 를 Cursor 로 엽니다.
+Exec=/home/hamonikr/Applications/cursor-0.41.1-build-2409189xe3envg5-x86_64_9cf0fc6c70247d12370ab28452ea35f1.AppImage --no-sandbox %U %F
+Icon-Name=appimagekit_d0a305f0adbec08c60ca33b57debca30_cursor
+Selection=any
+Extensions=dir;
+EscapeSpaces=true
