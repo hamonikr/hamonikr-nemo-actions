@@ -1,4 +1,5 @@
 [Nemo Action]
+Active=false
 Name=Edit with Root
 Name[ko]=관리자 권한으로 수정
 Comment=Edit as root
