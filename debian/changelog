@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.2) paektu; urgency=medium
+
+  * Add Run as Terminal
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 26 Sep 2024 20:17:39 +0900
+
 hamonikr-nemo-actions (1.2.1) paektu; urgency=medium
 
   * Add Edit by administrator authority in xed
