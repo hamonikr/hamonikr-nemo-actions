@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.4) paektu; urgency=medium
+
+  * Changed Replace section in control
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 26 Sep 2024 22:30:44 +0900
+
 hamonikr-nemo-actions (1.2.3) paektu; urgency=medium
 
   * Hide print tree
