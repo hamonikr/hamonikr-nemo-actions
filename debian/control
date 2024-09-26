@@ -10,7 +10,7 @@ Architecture: all
 Depends: nemo, 
          nemo-data, 
          unalz, 
-         nemo-python,
+         python-nemo,
          wmctrl,
          xdotool,
          mediainfo-gui,
