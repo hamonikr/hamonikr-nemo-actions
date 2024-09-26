@@ -1,5 +1,5 @@
 [Nemo Action]
-# Any action
+Active=false
 Name=Print _Tree
 Name[ko]=현재 폴더의 트리 구조 보기(_T)
 Comment=Print tree output for #F to a html file and display in default browser

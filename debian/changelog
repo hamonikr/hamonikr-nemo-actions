@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.3) paektu; urgency=medium
+
+  * Hide print tree
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 26 Sep 2024 21:07:47 +0900
+
 hamonikr-nemo-actions (1.2.2) paektu; urgency=medium
 
   * Add Run as Terminal
