@@ -1,5 +1,5 @@
 [Nemo Action]
-Active=true
+Active=false
 Name=Open Cursor
 Name[ko]=현재 폴더 Cursor 열기
 Comment=Open %F with Cursor
