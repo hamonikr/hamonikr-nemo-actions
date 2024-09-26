@@ -1,0 +1,11 @@
+[Nemo Action]
+Name=Edit with Root
+Name[ko]=관리자 권한으로 수정
+Comment=Edit as root
+Comment[ko]=관리자 권한으로 파일을 수정합니다
+Exec=xed admin://%F
+Icon-Name=text-editor-symbolic
+Selection=s
+Extensions=nodirs;
+EscapeSpaces=true
+Dependencies=xed;

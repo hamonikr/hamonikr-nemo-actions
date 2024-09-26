@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.1) paektu; urgency=medium
+
+  * Add Edit by administrator authority in xed
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 23 Sep 2024 11:41:14 +0900
+
 hamonikr-nemo-actions (1.2.0) paektu; urgency=medium
 
   * Add cursor menu
