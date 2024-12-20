@@ -5,8 +5,13 @@ set -e
 case "$1" in
     configure|triggered)
     
+        if [ -x /usr/bin/gtk-update-icon-cache ]; then
+            gtk-update-icon-cache -f -t /usr/share/icons/hicolor || true
+        fi
+
         nemo -q || true
-    ;;
+                
+        ;;
     abort-upgrade|abort-remove|abort-deconfigure)
 
     ;;

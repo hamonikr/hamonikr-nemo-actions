@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Find the latest Cursor AppImage in the Applications directory
+latest_cursor=$(find ~/Applications -name "cursor-*.AppImage" -type f -printf '%T@ %p\n' | sort -n | tail -1 | cut -f2- -d" ")
+
+if [ -z "$latest_cursor" ]; then
+    notify-send "Error" "No Cursor AppImage found in ~/Applications"
+    exit 1
+fi
+
+# Execute the latest Cursor AppImage with the provided arguments
+"$latest_cursor" --no-sandbox "$@" 

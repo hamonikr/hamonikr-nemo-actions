@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.5) paektu; urgency=medium
+
+  * Add open-cursor action
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 20 Dec 2024 13:55:10 +0900
+
 hamonikr-nemo-actions (1.2.4) paektu; urgency=medium
 
   * Changed Replace section in control
