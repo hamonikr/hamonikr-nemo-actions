@@ -8,5 +8,6 @@ if [ -z "$latest_cursor" ]; then
     exit 1
 fi
 
-# Execute the latest Cursor AppImage with the provided arguments
-"$latest_cursor" --no-sandbox "$@" 
+# Execute the latest Cursor AppImage with the provided arguments and redirect output to /dev/null
+"$latest_cursor" --no-sandbox "$@" > /dev/null 2>&1 &
+exit 0

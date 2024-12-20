@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.6) paektu; urgency=medium
+
+  * Add cursor scripts
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 20 Dec 2024 18:29:47 +0900
+
 hamonikr-nemo-actions (1.2.5) paektu; urgency=medium
 
   * Add open-cursor action
