@@ -27,7 +27,7 @@ Name=Convert Dot to PNG
 Name[ko]=선택한 파일을 PNG로 변환
 Comment=Convert %N to png image
 Comment[ko]=선택한 파일 %N 을 이미지로 변환 합니다
-Exec=gnome-terminal --working-directory=%P -- /bin/bash -c '/usr/bin/dot -Tpng %F "%e.png"'
+Exec=gnome-terminal --working-directory=%P -- /bin/bash -c '/usr/bin/dot -Tpng "%F" -o "%e.png"'
 Icon-Name=gnome-mime-image
 Selection=notnone
 Extensions=dot;
