@@ -1,3 +1,9 @@
+hamonikr-nemo-actions (1.2.7) paektu; urgency=medium
+
+  * Add dot2png scripts
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 25 Feb 2025 09:24:42 +0900
+
 hamonikr-nemo-actions (1.2.6) paektu; urgency=medium
 
   * Add cursor scripts
